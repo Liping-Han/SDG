@@ -1,0 +1,14 @@
+Package: SDG
+Type: Package
+Title: The Statistical Difference based Grouping Test (SD-G)
+Version: 1.0
+Author: Liping Han 
+Maintainer: The package maintainer <hanliping@nuaa.edu.cn>
+Description: The SD-G test is proposed for grouping treatments to find the partition where all the treatment pairs that fall in the same group are statistically similar. 
+License: GPL (>= 2)
+Encoding: UTF-8
+Depends:
+    reshape2,
+    stats
+RoxygenNote: 7.2.3
+Imports: effsize
