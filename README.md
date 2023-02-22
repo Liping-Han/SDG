@@ -1,5 +1,5 @@
 # The Statistical Difference based Grouping (SD-G) test
-The SD-G test is developed based on the Scott-Knott ESD with the aim of fixing the limitation in the non-parametric Scott-Knott ESD by proposing a novel partition algorithm, which finds the partition where all the treatment pairs that fall in the same group are statistically similar. 
+The SD-G test [Han et al., (2022) <https://doi.org/10.1145/3576041>] was developed based on the Scott-Knott ESD [Tantithamthavorn et al., (2018) <https://doi.org/10.1109/TSE.2018.2794977>], which fixs the limitation in the non-parametric Scott-Knott ESD by proposing a novel grouping algorithm that finds the partition where all the treatment pairs that fall in the same group are statistically similar. 
 
 
 
